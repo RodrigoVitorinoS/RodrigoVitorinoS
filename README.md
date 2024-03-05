@@ -7,9 +7,9 @@
 
 🎸🎮 Sou apaixonado por games e música;
 
-🔭 Atualmente estou trabalhando como professor de matemática e física;
+🔭 Estou trabalhando como professor de matemática e física;
 
-🌱 Atualmente estou mudar de área de carreira para data science;
+🌱 Atualmente estou almejando mudar de área de carreira para data science;
 
 📫 Você pode falar comigo pelo Instagram  e pode conhecer meus projetos já desenvolvidos, que estão disponíveis aqui nos repositórios.
 
